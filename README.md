@@ -1,9 +1,11 @@
 # Basic-Projects
 Trying out different things in coding
 
-1) Procedural Heart:
+1)Procedural Heart:
       Prints a Heart pattern in the Console Output using stars of any size.
       It is a procedural algorithm.
+      
+      Sample:
       Example1:
       input: 5
       output: 
@@ -55,6 +57,7 @@ Trying out different things in coding
                                           * # # # # # # * 
                                             * # # # # * 
                                               * # # * 
+
 
 2)Simple Snake Game in C++:
       It is the same game we used to play on Nokia 3310 but runs completely on the terminal.
