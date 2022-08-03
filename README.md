@@ -4,7 +4,7 @@ Trying out different things in coding
 1)Procedural Heart:
       Prints a Heart pattern in the Console Output using stars of any size.
       It is a procedural algorithm.
-      path: [Heart](Python/ProceduralHeart.py)
+      Code: [Heart](Python/ProceduralHeart.py)
       
       Sample:
       Example1:
@@ -67,7 +67,7 @@ Trying out different things in coding
       Collecting fruits increases the tail size as well as the score.
       If snake's head hits the tail game ends.
       Goal is to try and get a High Score.
-      path: Snake Game/snake.cpp
+      Code: [Snake](Snake Game/snake.cpp)
       
       Sample:
                     #####################
@@ -99,6 +99,8 @@ Trying out different things in coding
       Download the Sudoku App folder. Launch the AwT App by compiling the SudokuApp.java File in command line prompt.
       You will see a 9x9 grid of Text Fields. Enter the known Numbers in their respective Fields and Click on Solve.
       The empty spaces should fill up with the right answer giving you a solved sudoku.
+      [Awt Code]()
+      [BackTrack Algorithm]()
       
             Example: 
             Input:
