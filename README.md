@@ -93,3 +93,37 @@ Trying out different things in coding
                     #                   #
                     #####################
                     fruits: 12  score: 120
+                    
+                    
+3) Sudoku Solver AwT App:
+      Download the Sudoku App folder. Launch the AwT App by compiling the SudokuApp.java File in command line prompt.
+      You will see a 9x9 grid of Text Fields. Enter the known Numbers in their respective Fields and Click on Solve.
+      The empty spaces should fill up with the right answer giving you a solved sudoku.
+      
+            Example: 
+            Input:
+                  0 0 0 2 6 0 7 0 1
+                  6 8 0 0 7 0 0 9 0
+                  1 9 0 0 0 4 5 0 0
+                  8 2 0 1 0 0 0 4 0
+                  0 0 4 6 0 2 9 0 0
+                  0 5 0 0 0 3 0 2 8 
+                  0 0 9 3 0 0 0 7 4
+                  0 4 0 0 5 0 0 3 6
+                  7 0 3 0 1 8 0 0 0
+                  
+            Output:
+                  4 3 5 2 6 9 7 8 1 
+                  6 8 2 5 7 1 4 9 3 
+                  1 9 7 8 3 4 5 6 2 
+                  8 2 6 1 9 5 3 4 7 
+                  3 7 4 6 8 2 9 1 5 
+                  9 5 1 7 4 3 6 2 8 
+                  5 1 9 3 2 6 8 7 4 
+                  2 4 8 9 5 7 1 3 6 
+                  7 6 3 4 1 8 2 5 9 
+      
+      Here is a sample video of how it Works: 
+                  
+                  https://user-images.githubusercontent.com/110351644/182678677-3d3f4312-bc2e-45aa-b846-2a62b4ca2419.mp4
+
