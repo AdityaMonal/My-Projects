@@ -123,7 +123,6 @@ Trying out different things in coding
                   2 4 8 9 5 7 1 3 6 
                   7 6 3 4 1 8 2 5 9 
       
-      Here is a sample video of how it Works: 
-                  
-                  https://user-images.githubusercontent.com/110351644/182678677-3d3f4312-bc2e-45aa-b846-2a62b4ca2419.mp4
+      
+      [Example](https://user-images.githubusercontent.com/110351644/182678677-3d3f4312-bc2e-45aa-b846-2a62b4ca2419.mp4)
 
