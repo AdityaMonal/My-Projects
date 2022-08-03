@@ -1,4 +1,4 @@
-# Basic-Projects
+# My-Projects
 Trying out different things in coding
 
 1)Procedural Heart:
