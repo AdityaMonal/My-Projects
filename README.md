@@ -99,8 +99,8 @@ Trying out different things in coding
       Download the Sudoku App folder. Launch the AwT App by compiling the SudokuApp.java File in command line prompt.
       You will see a 9x9 grid of Text Fields. Enter the known Numbers in their respective Fields and Click on Solve.
       The empty spaces should fill up with the right answer giving you a solved sudoku.
-      [[Awt Code](Sudoku-App/SudokuApp.java)]
-      [[BackTrack Algorithm](Sudoku-App/SudokuPlz.java)]
+      [[Awt Code](Sudoku%20App/SudokuApp.java)]
+      [[BackTrack Algorithm](Sudoku%20App/SudokuPlz.java)]
       
             Example: 
             Input:
