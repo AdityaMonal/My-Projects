@@ -4,7 +4,7 @@ Trying out different things in coding
 1)Procedural Heart:
       Prints a Heart pattern in the Console Output using stars of any size.
       It is a procedural algorithm.
-      path: Python/ProceduralHeart.py
+      path: [](Python/ProceduralHeart.py)
       
       Sample:
       Example1:
