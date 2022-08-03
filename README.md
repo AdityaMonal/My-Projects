@@ -94,6 +94,9 @@ Trying out different things in coding
                     #####################
                     fruits: 12  score: 120
                     
+
+   [[Working](https://user-images.githubusercontent.com/110351644/182687269-6e0eddb3-fc3a-4b01-9be6-d44e57e11c97.mp4)]
+                    
                     
 3) Sudoku Solver AwT App:
       Download the Sudoku App folder. Launch the AwT App by compiling the SudokuApp.java File in command line prompt.
