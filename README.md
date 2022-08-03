@@ -67,7 +67,7 @@ Trying out different things in coding
       Collecting fruits increases the tail size as well as the score.
       If snake's head hits the tail game ends.
       Goal is to try and get a High Score.
-      Code: [Snake](Snake Game/snake.cpp)
+      Code: [Snake](Snake-Game/snake.cpp)
       
       Sample:
                     #####################
